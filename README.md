@@ -23,7 +23,7 @@ This repository contains scripts for encrypting and decrypting images using the 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/TripleDES-Image-Encryption.git
+    https://github.com/ujjawaljaiman/TripleDES-Image-Encryption.git
     ```
 
 2. Navigate into the project directory:
